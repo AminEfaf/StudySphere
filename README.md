@@ -61,13 +61,6 @@ Here are some screenshots showcasing the platform's design:
 - **Mohammad Amin Efaf**
 - **Arman GhorbanPour**
 
----
-
-## How to Use
-
-1. Visit the respective Figma links to explore the design and prototype of each platform version.
-
----
 
 ## Feedback
 
