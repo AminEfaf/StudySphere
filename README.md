@@ -49,7 +49,7 @@ This project focuses solely on the **UI/UX design** and does not include backend
 Here are some screenshots showcasing the platform's design:
 
 ### Desktop Version
-![Screenshot ![Screenshot 2025-05-09 at 18 43 49](https://github.com/user-attachments/assets/63011f8f-96e8-477d-a277-ff42c37fe6b3)
+![Screenshot 2025-05-09 at 18 43 49](https://github.com/user-attachments/assets/63011f8f-96e8-477d-a277-ff42c37fe6b3)
 
 ### Mobile Version
 ![Screenshot 2025-01-19 at 18 20 46](https://github.com/user-attachments/assets/568f0dd4-80fa-42b8-a7c4-3c96aafc3389)
